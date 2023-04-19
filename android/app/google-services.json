@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "749790860257",
+    "project_id": "flutter-chatroom-371a4",
+    "storage_bucket": "flutter-chatroom-371a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749790860257:android:ec2727c42ba9d96872b8a0",
+        "android_client_info": {
+          "package_name": "com.wangxuan.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749790860257-ejurkm2upd06luvhiht7k9flmcc8hfjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Fln5H458j1PbUez3PBNHvmtzq9SV2kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749790860257-ejurkm2upd06luvhiht7k9flmcc8hfjf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "749790860257-apuqod02lvphsa2jlec957153vamilt3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wangxuan.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
